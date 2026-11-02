@@ -1,0 +1,7 @@
+{
+  "name": "@pb/client",
+  "private": true,
+  "type": "module",
+  "dependencies": { "@pb/shared": "*" },
+  "scripts": { "typecheck": "tsc -p ." }
+}
